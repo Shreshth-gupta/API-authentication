@@ -1,0 +1,1 @@
+#API_AUTHENTICITY its a web application that uses different  api authentication to show results, different  authentication are no authatication, basic authentication, Usimg api key authentication, and using bearer token authentication. 
